@@ -1,0 +1,2 @@
+# WeChatHeadImgs
+10分钟教你用python下载和拼接微信好友头像图片
